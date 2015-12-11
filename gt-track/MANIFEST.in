@@ -1,0 +1,3 @@
+include ReadMe.rst
+include requirements.txt
+#recursive-include gttrack/pkl  *.pkl
